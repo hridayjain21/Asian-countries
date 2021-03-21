@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice_app</string>
+    <string name="afganistan">Afganistan</string>
+    <string name="capital_iraq">capital : iraq</string>
+    <string name="region_asia">Region : Asia</string>
+    <string name="sub_region_southern_asia">Sub region: southern asia</string>
+    <string name="border_pak_iraq_afg_ind_nepal">Border : pak,iraq,afg,ind,nepal,</string>
+    <string name="language_hindi_urdu_tamil">Language : hindi,urdu,tamil</string>
+</resources>
